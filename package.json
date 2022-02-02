@@ -4,6 +4,7 @@
   "description": "Preact's netlify CMS template",
   "version": "0.1.3",
   "license": "MIT",
+  "author": "Karthik Ravishankar"
   "scripts": {
     "start": "per-env",
     "start:production": "npm run -s serve",
